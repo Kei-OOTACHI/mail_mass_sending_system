@@ -1,0 +1,2 @@
+# mail_mass_sending_system
+メール一斉送信システムのSSのコンテナバインドスクリプト
